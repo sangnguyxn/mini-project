@@ -1,0 +1,4 @@
+# File thực thi và tệp tạm thời
+*.exe
+# Nếu file string_utils kia thực sự là một file rác
+string_utils
