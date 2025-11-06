@@ -25,7 +25,7 @@ Chương trình này bao gồm ba phần chính:
 
 * **Input:** Tên đã được chuẩn hóa.
 * **Output:** Email theo định dạng: `ten + chữ_cái_đầu_họ + chữ_cái_đầu_đệm` + `@gmail.com`.
-* **Ví dụ:** *Nguyen Van Anh* $\rightarrow$ *anhnv@gmail.com*
+* **Ví dụ:** *Vu Hoang Dieu* $\rightarrow$ *dieuvh@gmail.com*
 
 ---
 
