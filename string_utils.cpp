@@ -137,7 +137,6 @@ int main() {
     std::cout << "Vui Long Input name: "; 
     
     // Khắc phục lỗi input buffer nếu có lệnh cin >> trước đó
-    std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
     std::getline(std::cin, name);
 
     // BƯỚC 1: Xóa ký tự lạ (DK1)
