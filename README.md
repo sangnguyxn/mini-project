@@ -44,5 +44,7 @@ Chương trình này bao gồm ba phần chính:
 ---
 
 ## 🔑 Kỹ Thuật Chính
-
+Đây là chương trình được viết hoàn toàn bằng ngôn ngữ c++
 Chương trình sử dụng **Kỹ thuật Hai Con trỏ (Two-Pointer)** để tối ưu hóa việc chuẩn hóa chuỗi, thực hiện ghi đè *tại chỗ* (in-place) mà không cần tạo chuỗi tạm thời mới.
+## 🔑 Mục Đích Viết Chương Trình Này
+Đây là bài tập trong quá trình học c++ của tôi.
